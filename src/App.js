@@ -6,7 +6,7 @@ import NotFound from './components/NotFound';
 function App() {
   return (
     <div className="App">
-      {/* <Home/> */}
+      <Home/>
       <NotFound/>
     </div>
   );
